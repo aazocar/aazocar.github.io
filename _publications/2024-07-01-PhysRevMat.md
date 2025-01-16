@@ -1,0 +1,12 @@
+---
+title: "Effects of mechanical stress, chemical potential, and coverage on hydrogen solubility during hydrogen-enhanced decohesion of ferritic steel grain boundaries: A first-principles study"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-07-01-PhysRevMat
+excerpt: 'Hydrogen-enhanced decohesion (HEDE) is one of the many mechanisms of hydrogen embrittlement, a phenomenon that severely impacts structural materials such as iron and iron alloys. Grain boundaries (GBs) play a critical role in this mechanism, where they can provide trapping sites or act as hydrogen diffusion pathways. The interaction of H with GBs and other crystallographic defects, and thus the solubility and distribution of H in the microstructure, depends on the concentration, chemical potential, and local stress. Therefore, for a quantitative assessment of HEDE, a generalized solution energy in conjunction with the cohesive strength as a function of hydrogen coverage is needed. In this paper, we carry out density functional theory calculations to investigate the influence of H on the decohesion of the and symmetrical tilt GBs in bcc Fe, as examples for open and close-packed GB structures. A method to identify the segregation sites at the GB plane is proposed. The results indicate that at higher local concentrations, H leads to a significant reduction of the cohesive strength of the GB planes, significantly more pronounced at the than at the GB. Interestingly, at finite stress, the GB becomes more favorable for H solution, as opposed to the case of zero stress, where the GB is more attractive. This suggests that, under certain conditions, stresses in the microstructure can lead to a redistribution of H to the stronger grain boundary, which opens a path to designing H-resistant microstructures. To round up our study, we investigate the effects of typical alloying elements in ferritic steel, C, V, Cr, and Mn, on the solubility of H and the strength of the GBs.'
+date: 2024-07-01
+venue: 'Phys. Rev. Mater.'
+slidesurl: # ignore
+paperurl: 'https://doi.org/10.1103/PhysRevMaterials.8.073601'
+citation: 'Azócar Guzmán, A., & Janisch, R. (2024). Effects of mechanical stress, chemical potential, and coverage on hydrogen solubility during hydrogen-enhanced decohesion of ferritic steel grain boundaries: A first-principles study. Phys. Rev. Mater., 8, 073601.'
+---
