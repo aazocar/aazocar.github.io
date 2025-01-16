@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I’m Abril Guzman and I work at the [Institute for Materials Data Science and Informatics (IAS-9)](https://www.fz-juelich.de/en/ias/ias-9) in Forschungszentrum Jülich.
+Hi :wave:, I work at the [Institute for Materials Data Science and Informatics (IAS-9)](https://www.fz-juelich.de/en/ias/ias-9) in Forschungszentrum Jülich.
